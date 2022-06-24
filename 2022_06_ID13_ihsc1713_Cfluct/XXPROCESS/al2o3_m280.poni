@@ -1,0 +1,12 @@
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis 
+# Calibration done at Wed Jun  8 22:03:15 2022
+poni_version: 2
+Detector: Eiger4M
+Detector_config: {}
+Distance: 0.16467985556231649
+Poni1: 0.09242462677286163
+Poni2: 0.08817232802092974
+Rot1: 0.0001476439139211847
+Rot2: 0.00010410388938422253
+Rot3: 2.0086749287104117e-12
+Wavelength: 9.537246033323096e-11
